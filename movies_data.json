@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Inception",
+        "genres": ["Action", "Sci-Fi", "Thriller"],
+        "rating": 8.8
+    },
+    {
+        "title": "The Matrix",
+        "genres": ["Action", "Sci-Fi"],
+        "rating": 8.7
+    },
+    {
+        "title": "Toy Story",
+        "genres": ["Animation", "Comédie", "Famille"],
+        "rating": 8.3
+    },
+    {
+        "title": "Interstellar",
+        "genres": ["Sci-Fi", "Aventure", "Drame"],
+        "rating": 8.6
+    },
+    {
+        "title": "The Dark Knight",
+        "genres": ["Action", "Drame", "Crime"],
+        "rating": 9.0
+    },
+    {
+        "title": "La La Land",
+        "genres": ["Romance", "Comédie", "Musical"],
+        "rating": 8.0
+    },
+    {
+        "title": "Finding Nemo",
+        "genres": ["Animation", "Famille", "Aventure"],
+        "rating": 8.1
+    },
+    {
+        "title": "Gladiator",
+        "genres": ["Action", "Drame", "Historique"],
+        "rating": 8.5
+    },
+    {
+        "title": "Moulin Rouge!",
+        "genres": ["Romance", "Musical", "Drame"],
+        "rating": 7.6
+    },
+    {
+        "title": "Mad Max: Fury Road",
+        "genres": ["Action", "Aventure", "Sci-Fi"],
+        "rating": 8.1
+    }
+]
