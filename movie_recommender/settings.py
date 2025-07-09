@@ -42,7 +42,7 @@ INSTALLED_APPS = [
 # --- CORS ---
 CORS_ALLOW_ALL_ORIGINS = False
 CORS_ALLOWED_ORIGINS = [
-    "https://movie-frontend.onrender.com",  # À ajuster selon ton domaine Render Frontend
+    "https://movie-frontend-hfdi.onrender.com",  # À ajuster selon ton domaine Render Frontend
     "http://localhost:5173",
 ]
 
